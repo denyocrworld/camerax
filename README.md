@@ -1,16 +1,30 @@
-# camerax
+### Challenge Receh - 300k aja ya >_<
 
-A new Flutter project.
+### Clone project:
+https://github.com/denyocrworld/camerax.git
 
-## Getting Started
+### Build dengan:
+```
+flutter build apk --split-per-abi
+```
 
-This project is a starting point for a Flutter application.
+### Kamu akan melihat ukuran build-nya adalah 10MB++.
 
-A few resources to get you started if this is your first Flutter project:
+### Challenge-nya:
+- Cari cara supaya ukurannya jadi <= 9MB.
+- Apk-nya gak boleh rusak sehingga aplikasi-nya gak berjalan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Deadline: Besok siang jam 12:00
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Pemenang
+- Yang submit hasil-nya duluan lewat WA.
+Basically, kalo berhasil ngecilin ukurannya dan tidak rusak(bisa dibuka), langsung chat saya saja.
+
+### Catatan Development:
+Saya berhasil ngecilin ukurannya jadi <= 5MB.
+Tapi APK-nya rusak >_<
+Jadi ga bsa di install sama sekali.
+So, challenge ini tidak hanya mengecilkan ukurannya ya.
+Tapi harus bisa di install juga Aplikasi-nya.
+
+### Hubungi saya melalui capekngoding.com
